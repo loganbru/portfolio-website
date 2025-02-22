@@ -1,4 +1,4 @@
 {
-  "portfolioDescription": "My portfolio website for loganbrunner.com. The site uses the Github API to retreive my portfolio repos and display them.",
+  "portfolioDescription": "The source code for my portfolio website, loganbrunner.com. The site dynamically retrieves and displays my portfolio projects using the GitHub API. Built for simplicity and clarity, it showcases my programming work, including websites, software, and games.",
   "thumbnailImageLink": "assets/img/thumbnails/portfolio.png"
 }
